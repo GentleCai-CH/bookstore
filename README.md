@@ -1,4 +1,6 @@
 # bookstore
+说明：前期前端学习项目，代码是别人教程的...？
+
 
 ## Project setup
 ```
